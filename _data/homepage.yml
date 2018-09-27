@@ -1,0 +1,38 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /images/pdpc.ico
+
+# Agency logo
+agency-logo: /images/pdpc-logo.png
+
+# Hero Banner
+hero-title: Personal Data Protection Commission
+hero-subtitle: Promoting and enforcing personal data protection in Singapore
+hero-banner: /images/hero-banner.png
+
+#Call to Action Button
+button:
+  - text: Learn More
+    url: /who-we-are/overview/
+    
+key-highlights:
+  - title: Data Protection for Individuals
+    description: More information there
+    url: /individuals/overview/
+  - title: Data Protection for Organisations
+    description: More information here
+    url: /organisations/overview/
+  - title: Do Not Call Register
+    description: More information
+    url: https://www.dnc.gov.sg/index.html
+    external: true
+
+resources-title: Resources
+resources-subtitle: Be in the know
+resources-more-button: More Resources
+resources-more-button-url: resources/
